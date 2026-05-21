@@ -1,1 +1,1 @@
-This project was completed in conjunction with 3 other students as part of homework assignments over the course of the Spring 2025 semester.
+This repository contains the code and documentation for 2 projects, which were completed in conjunction with 3 other students as part of homework assignments over the course of the Spring 2025 semester.
